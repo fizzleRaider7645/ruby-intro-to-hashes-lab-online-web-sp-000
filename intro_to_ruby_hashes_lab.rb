@@ -8,6 +8,7 @@ end
 
 def monopoly(key, value)
 	monopoly = {}
+	monopoly[key] = value
 
 end
 
