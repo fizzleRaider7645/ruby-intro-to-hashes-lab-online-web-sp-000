@@ -6,7 +6,7 @@ def actor
   Hash.new('Dwayne The Rock Johnson')
 end
 
-def monopoly(key, value)
+def monopoly
 	monopoly = {}
 
 end
